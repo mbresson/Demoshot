@@ -3,6 +3,10 @@
 
 Demoshot is a photo sharing website written in PHP and HTML5 and using Twitter Bootstrap for its UI. It is the outcome of a work asked by my PHP teacher.
 
+========= DEPENDENCIES ====
+
+Demoshot needs at least PHP 5.3 and MySQL in order to run flawlessly.
+
 ========== INSTALL ========
 
 To install Demoshot, you need to:
