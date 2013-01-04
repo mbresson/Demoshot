@@ -1,0 +1,61 @@
+
+/*
+ * Demoshot's custom stylesheet
+ */
+
+
+/*
+ * BODY
+ */
+
+/*
+ * GENERIC
+ */
+
+h1 {
+	margin-bottom: 20px;
+}
+
+h2 {
+	margin-bottom: 15px;
+}
+
+h3, h4 {
+	margin-top: 15px;
+}
+
+form {
+	margin-top: 15px;
+}
+
+.dm_eml_show:after {
+	content: '@';
+}
+
+.dm_wrong_input {
+	color: red;
+}
+
+.dm_picture_tags {
+	text-align: right;
+}
+
+
+
+
+/*
+ * NAVBAR
+ */
+
+nav + div {
+	margin-top: 75px;
+}
+
+
+/*
+ * HEADER
+ */
+
+/*
+ * FOOTER
+ */
